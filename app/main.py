@@ -27,7 +27,7 @@ def index(slack_name: str = "yuba", track: str = "backend"):
         "current_day": current_day,
         "utc_time": formatted_utc_time,
         "track": track,
-        "github_file_url": "https://github.com/Ayodeji-a/Hngback/main/app/main.py",
+        "github_file_url": "https://github.com/Ayodeji-a/Hngback/blob/main/app/main.py",
         "github_repo_url": "https://github.com/Ayodeji-a/Hngback.git",
         "status_code": 200,
     }
